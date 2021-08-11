@@ -1,0 +1,67 @@
+/*5*/
+#external {
+	color: orange;
+}
+
+
+/*6*/
+* {
+	font-family: "Verdana", monospace;
+	font-size: 20px;
+}
+
+
+/*7*/
+h1 {
+	font-size: 3rem;
+}
+
+
+/*8*/
+#h2 {
+	text-transform: uppercase;
+}
+
+
+/*9*/
+.programming-languages {
+	background-color: #aed19d
+}
+
+
+/*10*/
+li[class="programming-tools"] {
+	border-width: 1px;
+	border-style: solid;
+	border-color: blue;
+}
+
+
+/* 11 */
+img + ul {
+	list-style-type: none;
+}
+
+
+
+/*12*/
+#section img {
+	height: 300px;
+	width: 300px;
+	border-radius: 150px;
+}
+
+
+
+/* 13 */
+ul {
+	letter-spacing: 10px;
+}
+
+
+
+/* 14 */
+ul ~ p {
+	text-align: center;
+	color: black;
+}
